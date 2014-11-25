@@ -9,6 +9,9 @@
   "author": "Ganesha <reekoheek@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "simplesmtp": "^0.3.33"
+    "simplesmtp": "^0.3.33",
+    "nodemailer": "^1.3.0",
+    "nodemailer-smtp-transport": "^0.1.13",
+    "q": "^1.1.2"
   }
 }
