@@ -1,0 +1,14 @@
+{
+  "name": "yesbee-smtp",
+  "version": "0.0.1",
+  "description": "yesbee smtp component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesha <reekoheek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "simplesmtp": "^0.3.33"
+  }
+}

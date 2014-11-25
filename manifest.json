@@ -1,0 +1,6 @@
+{
+    "motd": "yesbee-smtp",
+    "autostart": [
+        "smtp_test"
+    ]
+}
